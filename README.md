@@ -27,3 +27,21 @@ Projeto desenvolvido como parte do desafio da DIO, aplicando conceitos de Progra
 
 ## 📁 Estrutura do Projeto
 
+src/
+├── EstadoJogo.java
+├── Forca.java
+├── JogoDaForca.java
+├── LetraInvalidaException.java
+├── Palavra.java
+
+---
+
+## 🛠️ Tecnologias e Conceitos
+
+- Java 17+
+- Programação Orientada a Objetos
+- Estrutura de dados (Set)
+- Enum
+- Scanner (leitura do console)
+- Exceções personalizadas
+
